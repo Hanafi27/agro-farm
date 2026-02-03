@@ -312,14 +312,4 @@ php artisan vendor:publish --provider="Barryvdh\DomPDF\ServiceProvider"
 ## 📞 Support
 
 Untuk bantuan teknis atau pertanyaan, silakan hubungi:
-- **Email**: support@ciwideyagrofarm.com
-- **Phone**: +62-xxx-xxx-xxxx
-- **Documentation**: [Link ke dokumentasi lengkap]
-
-## 📄 License
-
-Project ini dikembangkan untuk Ciwidey Agro Farm. Semua hak cipta dilindungi.
-
----
-
-**© 2025 Ciwidey Agro Farm. All rights reserved.**
+- **Email**: hanafiilham333@gmail.com- 
